@@ -4,10 +4,10 @@ title: Important dates
 nav_order: 2
 ---
 
-* Abstract submission deadline: June 14, 2024 (23h59)
-* Paper submission deadline: June 21, 2024  (23h59)
-* Acceptance notification:  July 15, 2024  
-* Camera-ready deadline: July 30, 2024
-<!-- * Workshop date: September 18, 2023 -->
+* Abstract submission deadline: June 13, 2025 (23h59)
+* Paper submission deadline: June 20, 2025  (23h59)
+* Acceptance notification:  July 20, 2025  
+* Camera-ready deadline: August 15, 2025
+<!-- * Workshop date: September , 2025 -->
 
 All deadlines are in Pacific Time.
