@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Invited Talk "Anomaly detection in time series"
+title: Invited Talk 
 nav_order: 3.5
 ---
 
