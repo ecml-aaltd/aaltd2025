@@ -4,11 +4,7 @@ title: Home
 nav_order: 1
 ---
 
-The aim of this workshop is to **bring together researchers, practitioners and experts in
-machine learning, data mining, pattern analysis and statistics to share their challenges and
-advance the research field of temporal data analysis**. Analysis and learning from tempo-
-ral data cover a wide scope of tasks including learning metrics, learning representations,
-unsupervised feature extraction, clustering and classification.
+The aim of this workshop is to **bring together researchers, practitioners and experts in machine learning, data mining, pattern analysis and statistics to share their challenges and advance the research field of temporal data analysis**. Analysis and learning from temporal data cover a wide scope of tasks including learning metrics, learning representations, unsupervised feature extraction, clustering and classification.
 
 The proposed workshop welcomes papers that cover, but are not limited to, one or several of the following topics:
 * Temporal data clustering
