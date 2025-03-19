@@ -14,7 +14,7 @@ Paper submission is managed through [CMT](https://cmt3.research.microsoft.com/EC
 * Poster session (including research in progress and demos) -->
 
 
-Authors that would not want their papers to apply for possible oral presentation should inform the organisers at the time of submission. Submitted papers should be 6 to 16 pages long using the LNCS formatting style.
+Authors that would not want their papers to apply for possible oral presentation should inform the organisers at the time of submission. Submitted papers should be 6 to 16 pages long using the [LNCS formatting style](https://ecmlpkdd-storage.s3.eu-central-1.amazonaws.com/2025/ECML_PKDD_2025_Author_Kit.zip).
 
 Each accepted paper will be invited to propose a camera ready version of their article taking into account the reviewers recommendations. Note that being accepted as a poster does not require reducing the length of the article. The organizers prepare the list of oral presentations, considering the program constraints and the scientific interest for broader exposition of the work.
 
