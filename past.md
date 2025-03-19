@@ -6,6 +6,7 @@ nav_order: 999
 
 This workshop is part of the AALTD workshop series:
 
+* [9th AALTD workshop that took place during ECML/PKDD 2024](https://ecml-aaltd.github.io/aaltd2024/) (Vilnius)
 * [8th AALTD workshop that took place during ECML/PKDD 2023](https://ecml-aaltd.github.io/aaltd2023/) (Torino)
 * [7th AALTD workshop that took place during ECML/PKDD 2022](https://project.inria.fr/aaltd22/) (Grenoble, hybrid)
 * [6th AALTD workshop that took place during ECML/PKDD 2021](https://project.inria.fr/aaltd21/) (Bilbao, remotely)
