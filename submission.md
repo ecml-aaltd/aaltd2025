@@ -4,7 +4,7 @@ title: Paper submission
 nav_order: 2.5
 ---
 
-Paper submission is managed through [CMT](https://cmt3.research.microsoft.com/ECMLPKDDWorkshops2024/Submission/Index) (once logged in, make sure the selected track is _AALTD: 9th Workshop on Advanced Analytics and Learning on Temporal Data_).
+Paper submission is managed through [CMT](https://cmt3.research.microsoft.com/ECMLPKDDWorkshops2025/Submission/Index) (once logged in, make sure the selected track is _AALTD: 10th Workshop on Advanced Analytics and Learning on Temporal Data_).
 
 **Submissions will be double-blind (anonymised) and reviewed by at least 2 program committee members.**
 
@@ -22,5 +22,5 @@ At least one of the authors must be registered to the conference. If not, the pa
 
 All the articles accepted for the workshop will be available online for at least 3 years.
  
-Since the 4th edition of the workshop, authors of selected papers are invited to publish extended versions of their papers in a special volume in the Lecture Notes in Artificial Intelligence (Springer LNAI) series. The success of the workshop enables us to propose a standalone special volume of the AALTD Workshop (see [last year's edition](https://link.springer.com/book/10.1007/978-3-031-49896-1)).
+Since the 4th edition of the workshop, authors of selected papers are invited to publish extended versions of their papers in a special volume in the Lecture Notes in Artificial Intelligence (Springer LNAI) series. The success of the workshop enables us to propose a standalone special volume of the AALTD Workshop (see [last year's edition](https://link.springer.com/book/10.1007/978-3-031-77066-1)).
 
