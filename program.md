@@ -38,4 +38,4 @@ The workshop takes place on Friday 19th of September, room TBA.
 * [Unsupervised Feature Construction for Time Series Anomaly Detection - An Evaluation](), Hamon, Marine; Lemaire, Vincent; Nair-Benrekia, Nour Eddine Yassine; Berlemont, Samuel ; Cumin, Julien
 * [T3A-LLM: A Two-Stage Temporal Knowledge Graph Alignment Method Enhanced by LLM](), Wang, Tao; Zhao, Runhao; Tang, Jiuyang; Liu, Xiaolu
 
-## 6:15p: Posters discussion + Conclusion of the workshop
+## 6:15: Posters discussion + Conclusion of the workshop
