@@ -4,9 +4,7 @@ title: Program
 nav_order: 3
 ---
 
-Program for the 10th Workshop on Advanced Analytics and Learning on Temporal Data (AALTD 2025)
-
-The workshop takes place on Friday 19th of September.
+The workshop takes place on Friday 19th of September, room TBA.
 
 ## Invited talk session (chair: Tony Bagnall)
 - 2:15: Introduction
