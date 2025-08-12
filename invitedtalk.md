@@ -7,7 +7,7 @@ nav_order: 3.5
 
 ## Dr Zahraa Abdallah, Senior Lecturer, School of Engineering Mathematics and Technology, University of Bristol
 
-![Zahraa Abdallah]()
+![Zahraa Abdallah](<photo-Zahraa-Abdallah.jpg>)
 
 
 
