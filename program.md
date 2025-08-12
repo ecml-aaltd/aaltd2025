@@ -36,7 +36,7 @@ The workshop takes place on Friday 19th of September.
 * [Time series extrinsic regression algorithms for forecasting long time series with a short horizon](), Banwell, Alexander; Bagnall, Anthony
 * [Towards a Library for the Analysis of Temporal Sequences](), Guyet, Thomas; Duvermy, Arnaud
 * [FiTEM: Fine-tuning Time-series Foundation Models for Selective Forecasting](), Brusokas, Jonas; Tirupathi, Seshu; Pedersen, Torben Bach
-* [Characterizing Bird Movement Using Spectral Clustering](0, Romero, Raphaël; Mitchell, Lucy; Verbruggen,  Frederick; Lens, Luc; Lijffijt, Jefrey
+* [Characterizing Bird Movement Using Spectral Clustering](), Romero, Raphaël; Mitchell, Lucy; Verbruggen,  Frederick; Lens, Luc; Lijffijt, Jefrey
 * [Unsupervised Feature Construction for Time Series Anomaly Detection - An Evaluation](), Hamon, Marine; Lemaire, Vincent; Nair-Benrekia, Nour Eddine Yassine; Berlemont, Samuel ; Cumin, Julien
 * [T3A-LLM: A Two-Stage Temporal Knowledge Graph Alignment Method Enhanced by LLM](), Wang, Tao; Zhao, Runhao; Tang, Jiuyang; Liu, Xiaolu
 
