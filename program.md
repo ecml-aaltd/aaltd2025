@@ -22,20 +22,20 @@ The workshop takes place on Friday 19th of September, room TBA.
 ## Oral session2 (4:45 - 5:45): Augmentation, Imputation, Forecasting 
 **(10min presentation per paper + 5min questions) (chair: TBD)**
 
-* [Re-framing Time Series Augmentation Through the Lens of Generative Models](), Ismail-Fawaz, Ali; Devanne, Maxime; Berretti, Stefano; Weber, Jonathan; Forestier, Germain
-* [MoTM: Towards a Foundation Model for Time Series Imputation based on Continuous Modeling](), Le Naour, Etienne; Nabil, Tahar; Agoua, Ghislain
-* [FuelCast: Benchmarking Tabular and Temporal Models for Ship Fuel Consumption](), Viga, Justus; Mueck, Penelope; Loeser, Alexander; Weis, Torben
-* [Adaptive Fine-Tuning via Pattern Specialization for Deep Time Series Forecasting](), Saadallah, Amal; Al-Ademi, Abdulaziz
+* [Re-framing Time Series Augmentation Through the Lens of Generative Models](articles/Ismail-Fawaz-57\CameraReady\Data_Aug_Review_Generation_AALTD2025.pdf), Ismail-Fawaz, Ali; Devanne, Maxime; Berretti, Stefano; Weber, Jonathan; Forestier, Germain
+* [MoTM: Towards a Foundation Model for Time Series Imputation based on Continuous Modeling](articles/LeNaour-63\CameraReady\MoTM_ECML.pdf), Le Naour, Etienne; Nabil, Tahar; Agoua, Ghislain
+* [FuelCast: Benchmarking Tabular and Temporal Models for Ship Fuel Consumption](articles/Viga-58\CameraReady\FuelCast_Benchmark_Camera_Ready.pdf), Viga, Justus; Mueck, Penelope; Loeser, Alexander; Weis, Torben
+* [Adaptive Fine-Tuning via Pattern Specialization for Deep Time Series Forecasting](articles/Saadallah-302\CameraReady\aaltd-main.pdf), Saadallah, Amal; Al-Ademi, Abdulaziz
 
 ## Posters Overview (5:45 - 6:00)
 **(1 slide with 2min spotlight per poster)**
 
-* [Multi-output Ensembles for Multi-step Forecasting](), Cerqueira, Vitor; Torgo, Luis
-* [Time series extrinsic regression algorithms for forecasting long time series with a short horizon](), Banwell, Alexander; Bagnall, Anthony
-* [Towards a Library for the Analysis of Temporal Sequences](), Guyet, Thomas; Duvermy, Arnaud
-* [FiTEM: Fine-tuning Time-series Foundation Models for Selective Forecasting](), Brusokas, Jonas; Tirupathi, Seshu; Pedersen, Torben Bach
-* [Characterizing Bird Movement Using Spectral Clustering](), Romero, Raphaël; Mitchell, Lucy; Verbruggen,  Frederick; Lens, Luc; Lijffijt, Jefrey
-* [Unsupervised Feature Construction for Time Series Anomaly Detection - An Evaluation](), Hamon, Marine; Lemaire, Vincent; Nair-Benrekia, Nour Eddine Yassine; Berlemont, Samuel ; Cumin, Julien
-* [T3A-LLM: A Two-Stage Temporal Knowledge Graph Alignment Method Enhanced by LLM](), Wang, Tao; Zhao, Runhao; Tang, Jiuyang; Liu, Xiaolu
+* [Multi-output Ensembles for Multi-step Forecasting](articles/Cerqueira-8\CameraReady\_ECML_AALTD__CR.pdf), Cerqueira, Vitor; Torgo, Luis
+* [Time series extrinsic regression algorithms for forecasting long time series with a short horizon](articles/Banwell-42\CameraReady\AALTD_TSER_for_forecasting.pdf), Banwell, Alexander; Bagnall, Anthony
+* [Towards a Library for the Analysis of Temporal Sequences](articles/Guyet-55\CameraReady\AALTD_TanaT_CR.pdf), Guyet, Thomas; Duvermy, Arnaud
+* [FiTEM: Fine-tuning Time-series Foundation Models for Selective Forecasting](articles/Brusokas-CameraReady59.pdf), Brusokas, Jonas; Tirupathi, Seshu; Pedersen, Torben Bach
+* [Characterizing Bird Movement Using Spectral Clustering](articles/Romero-61\CameraReady\main.pdf), Romero, Raphaël; Mitchell, Lucy; Verbruggen,  Frederick; Lens, Luc; Lijffijt, Jefrey
+* [Unsupervised Feature Construction for Time Series Anomaly Detection - An Evaluation](articles/Hamon-90\CameraReady\ECML___AALTD__TSAD_Marine_.pdf), Hamon, Marine; Lemaire, Vincent; Nair-Benrekia, Nour Eddine Yassine; Berlemont, Samuel ; Cumin, Julien
+* [T3A-LLM: A Two-Stage Temporal Knowledge Graph Alignment Method Enhanced by LLM](articles/Wang-143\CameraReady\T3A-LLM.pdf), Wang, Tao; Zhao, Runhao; Tang, Jiuyang; Liu, Xiaolu
 
 ## 6:15: Posters discussion + Conclusion of the workshop
