@@ -13,9 +13,9 @@ The workshop takes place on Friday 19th of September, room TBA.
 ## Oral session1 (3:30-4:15): Classification and Forecasting
 **(10min presentation per paper + 5min questions) (chair: TBD)**
 
-* [e-SMOTE: a train set rebalancing algorithm for time series classification](), Qiu, Chuanhang; Middlehurst, Matthew; Holder, Christopher; Bagnall, Anthony
-* [A Deep Dive into Alternatives to the Global Average Pooling for Time Series Classification](), Meyer, Cyril; Ismail-Fawaz, Ali; Devanne, Maxime; Weber, Jonathan; Forestier, Germain
-* [The Next Motif: Tapping into Recurrence Dynamics and Precursor Signals to Forecast Events of Interest](), Silva, Miguel; C. Madeira, Sara; Henriques, Rui
+* [e-SMOTE: a train set rebalancing algorithm for time series classification](articles/Qiu-41\CameraReady\AALTD_Class_Imbalance.pdf), Qiu, Chuanhang; Middlehurst, Matthew; Holder, Christopher; Bagnall, Anthony
+* [A Deep Dive into Alternatives to the Global Average Pooling for Time Series Classification](articles/Meyer-89\CameraReady\TSPoolParty_AALTD_ECML_PKDD-VF1.pdf), Meyer, Cyril; Ismail-Fawaz, Ali; Devanne, Maxime; Weber, Jonathan; Forestier, Germain
+* [The Next Motif: Tapping into Recurrence Dynamics and Precursor Signals to Forecast Events of Interest](articles/Silva-53\CameraReady\NextMotif_Springer_Workshop.pdf), Silva, Miguel; C. Madeira, Sara; Henriques, Rui
 
 ## Posters + Coffee break (30mins)
  
