@@ -6,7 +6,7 @@ nav_order: 3
 
 The workshop takes place on Friday 19th of September, room TBA.
 
-## Invited talk session (chair: Tony Bagnall)
+## Invited talk session (2:15 - 3:30) (chair: Tony Bagnall)
 - 2:15: Introduction
 - 2:30-3:30: Invited Talk by **Assoc Prof Zahraa Abdallah**, University of Bristol 
 
