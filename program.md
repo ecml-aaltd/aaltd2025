@@ -6,12 +6,13 @@ nav_order: 3
 
 The workshop takes place on Friday 19th of September, room TBA.
 
-## Invited talk session (2:15 - 3:30) (chair: Tony Bagnall)
+## Invited talk session (2:15 - 3:30) 
+**(chair: Tony Bagnall)**
 - 2:15: Introduction
 - 2:30-3:30: Invited Talk by **Assoc Prof Zahraa Abdallah**, University of Bristol 
 
-## Posters Overview (3:30 - 3:45) (chair: Tony Bagnall)
-**(1 slide with 2min spotlight per poster)**
+## Posters Overview (3:30 - 3:45) 
+**(1 slide with 2min spotlight per poster) (chair: Tony Bagnall)**
 
 * [Multi-output Ensembles for Multi-step Forecasting](articles/Cerqueira-8\CameraReady\_ECML_AALTD__CR.pdf), Cerqueira, Vitor; Torgo, Luis
 * [Time series extrinsic regression algorithms for forecasting long time series with a short horizon](articles/Banwell-42\CameraReady\AALTD_TSER_for_forecasting.pdf), Banwell, Alexander; Bagnall, Anthony
