@@ -9,7 +9,7 @@ The workshop takes place on Friday 19th of September, room TBA.
 ## Invited talk session (2:15 - 3:30) 
 **(chair: Tony Bagnall)**
 - 2:15: Introduction
-- 2:30-3:30: Invited Talk by **Assoc Prof Zahraa Abdallah**,
+- 2:30-3:30: Invited Talk by **Dr Zahraa Abdallah, Senior Lecturer, University of Bristol**,
 [Rethinking Time Series Clustering: Lessons from Complex Data Streams](invitedtalk.md)
 
 ## Posters Overview (3:30 - 3:45) 
