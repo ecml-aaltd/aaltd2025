@@ -12,7 +12,7 @@ In this keynote, I will trace a journey from analysing patterns in crowdsourced,
 
 The talk will share lessons learned from building clustering pipelines for irregular, high-frequency time series and complex data streams, and highlight how rigorous validation can transform clustering from speculative pattern-finding into a scientifically grounded tool, with implications well beyond the clinical case study.
 
-## Dr Zahraa Abdallah, Senior Lecturer, School of Engineering Mathematics and Technology, University of Bristol, UK
+## Dr Zahraa Abdallah, Senior Lecturer (Associate Professor), School of Engineering Mathematics and Technology, University of Bristol, UK
 
 ![Zahraa Abdallah](<Profile_Photo_Zahraa.jpg>)
 
