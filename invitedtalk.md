@@ -1,8 +1,9 @@
 ---
 layout: default
-title: Rethinking Time Series Clustering - Lessons from Complex Data Streams
+title: Invited Talk
 nav_order: 3.5
 ---
+# Rethinking Time Series Clustering - Lessons from Complex Data Streams
 
 ## Abstract
 Clustering of time series is widely used to uncover regime changes and structural patterns across domains such as health, finance, and industry. Its strength lies in detecting patterns without predefined labels, but this also creates a fundamental challenge: without ground truth, how can we know whether discovered clusters reflect genuine structures, algorithmic artefacts, or weaknesses in the validation process? Traditional clustering validity indices were developed mainly for Euclidean spaces and provide little insight when applied to correlation structures in time series.
