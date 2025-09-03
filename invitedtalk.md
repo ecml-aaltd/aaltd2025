@@ -16,6 +16,6 @@ The talk will share lessons learned from building clustering pipelines for irreg
 
 ![Zahraa Abdallah](<Profile_Photo_Zahraa.jpg>)
 
-
+Zahraa S. Abdallah is a Senior Lecturer in Machine Learning at the University of Bristol, UK, where she leads the Data Science Research Lab and the Time Series Research Group. Her research interests lie in time series analysis, adaptive learning, explainability and multimodal data, with a strong focus on healthcare applications. She received her PhD from Monash University, Australia, where her dissertation was awarded the prestigious Mollie Holman Medal for the best thesis in the School of Information Technology. Her work has been published in the top machine learning and data mining venues. Her recent projects span applications in Type I diabetes, cancer research, Alzheimer’s biomarkers, Parkinson’s disease EEG analysis, and trustworthy AI.
 
 [website](https://research-information.bris.ac.uk/en/persons/zahraa-s-abdallah)
