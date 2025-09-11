@@ -4,7 +4,7 @@ title: Program
 nav_order: 3
 ---
 
-The workshop takes place on Friday 19th of September, room TBA.
+The workshop takes place on Friday 19th of September, room Sala das Miniaturas. 
 
 ## Invited talk session (2:15 - 3:30) 
 **(chair: Tony Bagnall)**
